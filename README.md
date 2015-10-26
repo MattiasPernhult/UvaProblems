@@ -3,7 +3,7 @@ My solutions for the Uva Online Judge problems. 15 of them was part of a course 
 
 ## Solved Problems (Advanced Programming course)
 ##### 10300 - Ecological Premium
-Simple problem, just do exactly as the the text says.
+Simple problem, just do exactly as the text says.
 ##### 591 - Box of Bricks
 Calculate the average that each box should have, then loop throgh the array and if that value is larger than the
 average add that value subtracted by the average to a total variable. Then after the loop just print the total.
